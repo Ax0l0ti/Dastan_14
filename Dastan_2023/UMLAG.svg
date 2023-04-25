@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1010px" preserveAspectRatio="none" style="width:1856px;height:1010px;background:#FFFFFF;" version="1.1" viewBox="0 0 1856 1010" width="1856px" zoomAndPan="magnify"><defs/><g><!--MD5=[175f95e045c1a44aed0b30df3abe0e5c]
+class Program--><g id="elem_Program"><rect codeLine="4" fill="#F1F1F1" height="48" id="Program" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="93" x="1756" y="259.5"/><ellipse cx="1771" cy="275.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1773.3438,271.1719 C1772.4063,270.7344 1771.8125,270.5938 1770.9375,270.5938 C1768.3125,270.5938 1766.3125,272.6719 1766.3125,275.3906 L1766.3125,276.5156 C1766.3125,279.0938 1768.4219,280.9844 1771.3125,280.9844 C1772.5313,280.9844 1773.6875,280.6875 1774.4375,280.1406 C1775.0156,279.7344 1775.3438,279.2813 1775.3438,278.8906 C1775.3438,278.4375 1774.9531,278.0469 1774.4844,278.0469 C1774.2656,278.0469 1774.0625,278.125 1773.875,278.3125 C1773.4219,278.7969 1773.4219,278.7969 1773.2344,278.8906 C1772.8125,279.1563 1772.125,279.2813 1771.3594,279.2813 C1769.3125,279.2813 1768.0156,278.1875 1768.0156,276.4844 L1768.0156,275.3906 C1768.0156,273.6094 1769.2656,272.2969 1771,272.2969 C1771.5781,272.2969 1772.1875,272.4531 1772.6563,272.7031 C1773.1406,272.9844 1773.3125,273.2031 1773.4063,273.6094 C1773.4688,274.0156 1773.5,274.1406 1773.6406,274.2656 C1773.7813,274.4063 1774.0156,274.5156 1774.2344,274.5156 C1774.5,274.5156 1774.7656,274.375 1774.9375,274.1563 C1775.0469,274 1775.0781,273.8125 1775.0781,273.3906 L1775.0781,271.9688 C1775.0781,271.5313 1775.0625,271.4063 1774.9688,271.25 C1774.8125,270.9844 1774.5313,270.8438 1774.2344,270.8438 C1773.9375,270.8438 1773.7344,270.9375 1773.5156,271.25 L1773.3438,271.1719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="1785" y="280.3467">Program</text><line style="stroke:#181818;stroke-width:0.5;" x1="1757" x2="1848" y1="291.5" y2="291.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="1757" x2="1848" y1="299.5" y2="299.5"/></g><!--MD5=[890d9bc975c19ae1594f7799e8b19233]
+class Dastan--><g id="elem_Dastan"><rect codeLine="6" fill="#F1F1F1" height="553.2031" id="Dastan" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="547" x="494" y="7"/><ellipse cx="738.25" cy="23" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M740.5938,18.6719 C739.6563,18.2344 739.0625,18.0938 738.1875,18.0938 C735.5625,18.0938 733.5625,20.1719 733.5625,22.8906 L733.5625,24.0156 C733.5625,26.5938 735.6719,28.4844 738.5625,28.4844 C739.7813,28.4844 740.9375,28.1875 741.6875,27.6406 C742.2656,27.2344 742.5938,26.7813 742.5938,26.3906 C742.5938,25.9375 742.2031,25.5469 741.7344,25.5469 C741.5156,25.5469 741.3125,25.625 741.125,25.8125 C740.6719,26.2969 740.6719,26.2969 740.4844,26.3906 C740.0625,26.6563 739.375,26.7813 738.6094,26.7813 C736.5625,26.7813 735.2656,25.6875 735.2656,23.9844 L735.2656,22.8906 C735.2656,21.1094 736.5156,19.7969 738.25,19.7969 C738.8281,19.7969 739.4375,19.9531 739.9063,20.2031 C740.3906,20.4844 740.5625,20.7031 740.6563,21.1094 C740.7188,21.5156 740.75,21.6406 740.8906,21.7656 C741.0313,21.9063 741.2656,22.0156 741.4844,22.0156 C741.75,22.0156 742.0156,21.875 742.1875,21.6563 C742.2969,21.5 742.3281,21.3125 742.3281,20.8906 L742.3281,19.4688 C742.3281,19.0313 742.3125,18.9063 742.2188,18.75 C742.0625,18.4844 741.7813,18.3438 741.4844,18.3438 C741.1875,18.3438 740.9844,18.4375 740.7656,18.75 L740.5938,18.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="50" x="758.75" y="27.8467">Dastan</text><line style="stroke:#181818;stroke-width:0.5;" x1="495" x2="1040" y1="39" y2="39"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="155" x="500" y="55.9951">#List&lt;Square&gt; Board</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="406" x="500" y="72.292">#int NoOfRows, NoOfColumns, MoveOptionOfferPosition</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="500" y="88.5889">#List&lt;Player&gt; Players</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="232" x="500" y="104.8857">#List&lt;string&gt; MoveOptionOffer</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="159" x="500" y="121.1826">#Player CurrentPlayer</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="114" x="500" y="137.4795">#Random RGen</text><line style="stroke:#181818;stroke-width:0.5;" x1="495" x2="1040" y1="144.7813" y2="144.7813"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="261" x="500" y="161.7764">+Dastan(int R, int C, int NoOfPieces)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="153" x="500" y="178.0732">-DisplayBoard() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="151" x="500" y="194.3701">-DisplayState() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="329" x="500" y="210.667">-GetIndexOfSquare(int SquareReference) : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="368" x="500" y="226.9639">-CheckSquareInBounds(int SquareReference) : bool</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="479" x="500" y="243.2607">-CheckSquareIsValid(int SquareReference, bool StartSquare) : bool</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="192" x="500" y="259.5576">-CheckIfGameOver() : bool</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="330" x="500" y="275.8545">-GetSquareReference(string Description) : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="210" x="500" y="292.1514">-UseMoveOptionOffer() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="431" x="500" y="308.4482">-GetPointsForOccupancyByPlayer(Player CurrentPlayer) : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="385" x="500" y="324.7451">-UpdatePlayerScore(int PointsForPieceCapture) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="446" x="500" y="341.042">-CalculatePieceCapturePoints(int FinishSquareReference) : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="500" y="357.3389">+PlayGame() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="535" x="500" y="373.6357">-UpdateBoard(int StartSquareReference, int FinishSquareReference) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="500" y="389.9326">-DisplayFinalResult() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="150" x="500" y="406.2295">-CreateBoard() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="260" x="500" y="422.5264">-CreatePieces(int NoOfPieces) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="234" x="500" y="438.8232">-CreateMoveOptionOffer() : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="386" x="500" y="455.1201">-CreateRyottMoveOption(int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="396" x="500" y="471.417">-CreateFaujdarMoveOption(int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="383" x="500" y="487.7139">-CreateJazairMoveOption(int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="414" x="500" y="504.0107">-CreateCuirassierMoveOption(int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="420" x="500" y="520.3076">-CreateChowkidarMoveOption(int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="440" x="500" y="536.6045">-CreateMoveOption(string Name, int Direction) : MoveOption</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="500" y="552.9014">-CreateMoveOptions() : void</text></g><!--MD5=[e05bacf3ff4416a0580578814d41bbf6]
+class Piece--><g id="elem_Piece"><rect codeLine="91" fill="#F1F1F1" height="178.375" id="Piece" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="297" x="619" y="620"/><ellipse cx="743.75" cy="636" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M746.0938,631.6719 C745.1563,631.2344 744.5625,631.0938 743.6875,631.0938 C741.0625,631.0938 739.0625,633.1719 739.0625,635.8906 L739.0625,637.0156 C739.0625,639.5938 741.1719,641.4844 744.0625,641.4844 C745.2813,641.4844 746.4375,641.1875 747.1875,640.6406 C747.7656,640.2344 748.0938,639.7813 748.0938,639.3906 C748.0938,638.9375 747.7031,638.5469 747.2344,638.5469 C747.0156,638.5469 746.8125,638.625 746.625,638.8125 C746.1719,639.2969 746.1719,639.2969 745.9844,639.3906 C745.5625,639.6563 744.875,639.7813 744.1094,639.7813 C742.0625,639.7813 740.7656,638.6875 740.7656,636.9844 L740.7656,635.8906 C740.7656,634.1094 742.0156,632.7969 743.75,632.7969 C744.3281,632.7969 744.9375,632.9531 745.4063,633.2031 C745.8906,633.4844 746.0625,633.7031 746.1563,634.1094 C746.2188,634.5156 746.25,634.6406 746.3906,634.7656 C746.5313,634.9063 746.7656,635.0156 746.9844,635.0156 C747.25,635.0156 747.5156,634.875 747.6875,634.6563 C747.7969,634.5 747.8281,634.3125 747.8281,633.8906 L747.8281,632.4688 C747.8281,632.0313 747.8125,631.9063 747.7188,631.75 C747.5625,631.4844 747.2813,631.3438 746.9844,631.3438 C746.6875,631.3438 746.4844,631.4375 746.2656,631.75 L746.0938,631.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="39" x="764.25" y="640.8467">Piece</text><line style="stroke:#181818;stroke-width:0.5;" x1="620" x2="915" y1="652" y2="652"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="212" x="625" y="668.9951">#string TypeOfPiece, Symbol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="158" x="625" y="685.292">#int PointsIfCaptured</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="625" y="701.5889">#Player BelongsTo</text><line style="stroke:#181818;stroke-width:0.5;" x1="620" x2="915" y1="708.8906" y2="708.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="285" x="625" y="725.8857">+Piece(string T, Player B, int P, string S)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="157" x="625" y="742.1826">+GetSymbol() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="195" x="625" y="758.4795">+GetTypeOfPiece() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="625" y="774.7764">+GetBelongsTo() : Player</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="203" x="625" y="791.0732">+GetPointsIfCaptured() : int</text></g><!--MD5=[5655ee3e2a0d028d03fe20f829576392]
+class Square--><g id="elem_Square"><rect codeLine="113" fill="#F1F1F1" height="227.2656" id="Square" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="444" x="14.5" y="170"/><ellipse cx="207.75" cy="186" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M210.0937,181.6719 C209.1562,181.2344 208.5625,181.0938 207.6875,181.0938 C205.0625,181.0938 203.0625,183.1719 203.0625,185.8906 L203.0625,187.0156 C203.0625,189.5938 205.1719,191.4844 208.0625,191.4844 C209.2812,191.4844 210.4375,191.1875 211.1875,190.6406 C211.7656,190.2344 212.0937,189.7813 212.0937,189.3906 C212.0937,188.9375 211.7031,188.5469 211.2344,188.5469 C211.0156,188.5469 210.8125,188.625 210.625,188.8125 C210.1719,189.2969 210.1719,189.2969 209.9844,189.3906 C209.5625,189.6563 208.875,189.7813 208.1094,189.7813 C206.0625,189.7813 204.7656,188.6875 204.7656,186.9844 L204.7656,185.8906 C204.7656,184.1094 206.0156,182.7969 207.75,182.7969 C208.3281,182.7969 208.9375,182.9531 209.4062,183.2031 C209.8906,183.4844 210.0625,183.7031 210.1562,184.1094 C210.2187,184.5156 210.25,184.6406 210.3906,184.7656 C210.5312,184.9063 210.7656,185.0156 210.9844,185.0156 C211.25,185.0156 211.5156,184.875 211.6875,184.6563 C211.7969,184.5 211.8281,184.3125 211.8281,183.8906 L211.8281,182.4688 C211.8281,182.0313 211.8125,181.9063 211.7187,181.75 C211.5625,181.4844 211.2812,181.3438 210.9844,181.3438 C210.6875,181.3438 210.4844,181.4375 210.2656,181.75 L210.0937,181.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="49" x="228.25" y="190.8467">Square</text><line style="stroke:#181818;stroke-width:0.5;" x1="15.5" x2="457.5" y1="202" y2="202"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="20.5" y="218.9951">#string Symbol</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="156" x="20.5" y="235.292">#Piece PieceInSquare</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="20.5" y="251.5889">#Player BelongsTo</text><line style="stroke:#181818;stroke-width:0.5;" x1="15.5" x2="457.5" y1="258.8906" y2="258.8906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="20.5" y="275.8857">+Square()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="238" x="20.5" y="292.1826">+SetPiece(Piece P) : virtual : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="229" x="20.5" y="308.4795">+RemovePiece() : virtual : Piece</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="259" x="20.5" y="324.7764">+GetPieceInSquare() : virtual : Piece</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="20.5" y="341.0732">+GetSymbol() : virtual : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="432" x="20.5" y="357.3701">+GetPointsForOccupancy(Player CurrentPlayer) : virtual : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="238" x="20.5" y="373.667">+GetBelongsTo() : virtual : Player</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="225" x="20.5" y="389.9639">+ContainsKotla() : virtual : bool</text></g><!--MD5=[5fafceb2bd867f9a7c892fb955320aa3]
+class Kotla--><g id="elem_Kotla"><rect codeLine="145" fill="#F1F1F1" height="80.5938" id="Kotla" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="459" x="7" y="668.5"/><ellipse cx="213.25" cy="684.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M215.5938,680.1719 C214.6563,679.7344 214.0625,679.5938 213.1875,679.5938 C210.5625,679.5938 208.5625,681.6719 208.5625,684.3906 L208.5625,685.5156 C208.5625,688.0938 210.6719,689.9844 213.5625,689.9844 C214.7813,689.9844 215.9375,689.6875 216.6875,689.1406 C217.2656,688.7344 217.5938,688.2813 217.5938,687.8906 C217.5938,687.4375 217.2031,687.0469 216.7344,687.0469 C216.5156,687.0469 216.3125,687.125 216.125,687.3125 C215.6719,687.7969 215.6719,687.7969 215.4844,687.8906 C215.0625,688.1563 214.375,688.2813 213.6094,688.2813 C211.5625,688.2813 210.2656,687.1875 210.2656,685.4844 L210.2656,684.3906 C210.2656,682.6094 211.5156,681.2969 213.25,681.2969 C213.8281,681.2969 214.4375,681.4531 214.9063,681.7031 C215.3906,681.9844 215.5625,682.2031 215.6563,682.6094 C215.7188,683.0156 215.75,683.1406 215.8906,683.2656 C216.0313,683.4063 216.2656,683.5156 216.4844,683.5156 C216.75,683.5156 217.0156,683.375 217.1875,683.1563 C217.2969,683 217.3281,682.8125 217.3281,682.3906 L217.3281,680.9688 C217.3281,680.5313 217.3125,680.4063 217.2188,680.25 C217.0625,679.9844 216.7813,679.8438 216.4844,679.8438 C216.1875,679.8438 215.9844,679.9375 215.7656,680.25 L215.5938,680.1719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="233.75" y="689.3467">Kotla</text><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="465" y1="700.5" y2="700.5"/><line style="stroke:#181818;stroke-width:0.5;" x1="8" x2="465" y1="708.5" y2="708.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="236" x="13" y="725.4951">+Kotla(Player P, string S) : base()</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="447" x="13" y="741.792">+GetPointsForOccupancy(Player CurrentPlayer) : override : int</text></g><!--MD5=[0a28101e9b266974db98a89dafdbb462]
+class MoveOption--><g id="elem_MoveOption"><rect codeLine="153" fill="#F1F1F1" height="145.7813" id="MoveOption" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="683" x="1057" y="858"/><ellipse cx="1350.25" cy="874" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1352.5938,869.6719 C1351.6563,869.2344 1351.0625,869.0938 1350.1875,869.0938 C1347.5625,869.0938 1345.5625,871.1719 1345.5625,873.8906 L1345.5625,875.0156 C1345.5625,877.5938 1347.6719,879.4844 1350.5625,879.4844 C1351.7813,879.4844 1352.9375,879.1875 1353.6875,878.6406 C1354.2656,878.2344 1354.5938,877.7813 1354.5938,877.3906 C1354.5938,876.9375 1354.2031,876.5469 1353.7344,876.5469 C1353.5156,876.5469 1353.3125,876.625 1353.125,876.8125 C1352.6719,877.2969 1352.6719,877.2969 1352.4844,877.3906 C1352.0625,877.6563 1351.375,877.7813 1350.6094,877.7813 C1348.5625,877.7813 1347.2656,876.6875 1347.2656,874.9844 L1347.2656,873.8906 C1347.2656,872.1094 1348.5156,870.7969 1350.25,870.7969 C1350.8281,870.7969 1351.4375,870.9531 1351.9063,871.2031 C1352.3906,871.4844 1352.5625,871.7031 1352.6563,872.1094 C1352.7188,872.5156 1352.75,872.6406 1352.8906,872.7656 C1353.0313,872.9063 1353.2656,873.0156 1353.4844,873.0156 C1353.75,873.0156 1354.0156,872.875 1354.1875,872.6563 C1354.2969,872.5 1354.3281,872.3125 1354.3281,871.8906 L1354.3281,870.4688 C1354.3281,870.0313 1354.3125,869.9063 1354.2188,869.75 C1354.0625,869.4844 1353.7813,869.3438 1353.4844,869.3438 C1353.1875,869.3438 1352.9844,869.4375 1352.7656,869.75 L1352.5938,869.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="88" x="1370.75" y="878.8467">MoveOption</text><line style="stroke:#181818;stroke-width:0.5;" x1="1058" x2="1739" y1="890" y2="890"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="1063" y="906.9951">#string Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="206" x="1063" y="923.292">#List&lt;Move&gt; PossibleMoves</text><line style="stroke:#181818;stroke-width:0.5;" x1="1058" x2="1739" y1="930.5938" y2="930.5938"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="1063" y="947.5889">+MoveOption(string N)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="268" x="1063" y="963.8857">+AddToPossibleMoves(Move M) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="1063" y="980.1826">+GetName() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="671" x="1063" y="996.4795">+CheckIfThereIsAMoveToSquare(int StartSquareReference, int FinishSquareReference) : bool</text></g><!--MD5=[1981719fa3982d92ef7fd3f06d73b3e7]
+class Move--><g id="elem_Move"><rect codeLine="172" fill="#F1F1F1" height="113.1875" id="Move" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="248" x="773.5" y="874.5"/><ellipse cx="874.25" cy="890.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M876.5938,886.1719 C875.6563,885.7344 875.0625,885.5938 874.1875,885.5938 C871.5625,885.5938 869.5625,887.6719 869.5625,890.3906 L869.5625,891.5156 C869.5625,894.0938 871.6719,895.9844 874.5625,895.9844 C875.7813,895.9844 876.9375,895.6875 877.6875,895.1406 C878.2656,894.7344 878.5938,894.2813 878.5938,893.8906 C878.5938,893.4375 878.2031,893.0469 877.7344,893.0469 C877.5156,893.0469 877.3125,893.125 877.125,893.3125 C876.6719,893.7969 876.6719,893.7969 876.4844,893.8906 C876.0625,894.1563 875.375,894.2813 874.6094,894.2813 C872.5625,894.2813 871.2656,893.1875 871.2656,891.4844 L871.2656,890.3906 C871.2656,888.6094 872.5156,887.2969 874.25,887.2969 C874.8281,887.2969 875.4375,887.4531 875.9063,887.7031 C876.3906,887.9844 876.5625,888.2031 876.6563,888.6094 C876.7188,889.0156 876.75,889.1406 876.8906,889.2656 C877.0313,889.4063 877.2656,889.5156 877.4844,889.5156 C877.75,889.5156 878.0156,889.375 878.1875,889.1563 C878.2969,889 878.3281,888.8125 878.3281,888.3906 L878.3281,886.9688 C878.3281,886.5313 878.3125,886.4063 878.2188,886.25 C878.0625,885.9844 877.7813,885.8438 877.4844,885.8438 C877.1875,885.8438 876.9844,885.9375 876.7656,886.25 L876.5938,886.1719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="38" x="894.75" y="895.3467">Move</text><line style="stroke:#181818;stroke-width:0.5;" x1="774.5" x2="1020.5" y1="906.5" y2="906.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="236" x="779.5" y="923.4951">#int RowChange, ColumnChange</text><line style="stroke:#181818;stroke-width:0.5;" x1="774.5" x2="1020.5" y1="930.7969" y2="930.7969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="135" x="779.5" y="947.792">+Move(int R, int C)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="165" x="779.5" y="964.0889">+GetRowChange() : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="189" x="779.5" y="980.3857">+GetColumnChange() : int</text></g><!--MD5=[0c0c992346d18348d42ef3b50bb46dc6]
+class MoveOptionQueue--><g id="elem_MoveOptionQueue"><rect codeLine="187" fill="#F1F1F1" height="145.7813" id="MoveOptionQueue" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="434" x="1181.5" y="636"/><ellipse cx="1327.75" cy="652" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1330.0938,647.6719 C1329.1563,647.2344 1328.5625,647.0938 1327.6875,647.0938 C1325.0625,647.0938 1323.0625,649.1719 1323.0625,651.8906 L1323.0625,653.0156 C1323.0625,655.5938 1325.1719,657.4844 1328.0625,657.4844 C1329.2813,657.4844 1330.4375,657.1875 1331.1875,656.6406 C1331.7656,656.2344 1332.0938,655.7813 1332.0938,655.3906 C1332.0938,654.9375 1331.7031,654.5469 1331.2344,654.5469 C1331.0156,654.5469 1330.8125,654.625 1330.625,654.8125 C1330.1719,655.2969 1330.1719,655.2969 1329.9844,655.3906 C1329.5625,655.6563 1328.875,655.7813 1328.1094,655.7813 C1326.0625,655.7813 1324.7656,654.6875 1324.7656,652.9844 L1324.7656,651.8906 C1324.7656,650.1094 1326.0156,648.7969 1327.75,648.7969 C1328.3281,648.7969 1328.9375,648.9531 1329.4063,649.2031 C1329.8906,649.4844 1330.0625,649.7031 1330.1563,650.1094 C1330.2188,650.5156 1330.25,650.6406 1330.3906,650.7656 C1330.5313,650.9063 1330.7656,651.0156 1330.9844,651.0156 C1331.25,651.0156 1331.5156,650.875 1331.6875,650.6563 C1331.7969,650.5 1331.8281,650.3125 1331.8281,649.8906 L1331.8281,648.4688 C1331.8281,648.0313 1331.8125,647.9063 1331.7188,647.75 C1331.5625,647.4844 1331.2813,647.3438 1330.9844,647.3438 C1330.6875,647.3438 1330.4844,647.4375 1330.2656,647.75 L1330.0938,647.6719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="1348.25" y="656.8467">MoveOptionQueue</text><line style="stroke:#181818;stroke-width:0.5;" x1="1182.5" x2="1614.5" y1="668" y2="668"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="191" x="1187.5" y="684.9951">-List&lt;MoveOption&gt; Queue</text><line style="stroke:#181818;stroke-width:0.5;" x1="1182.5" x2="1614.5" y1="692.2969" y2="692.2969"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="209" x="1187.5" y="709.292">+GetQueueAsString() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="302" x="1187.5" y="725.5889">+Add(MoveOption NewMoveOption) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="422" x="1187.5" y="741.8857">+Replace(int Position, MoveOption NewMoveOption) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="271" x="1187.5" y="758.1826">+MoveItemToBack(int Position) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="357" x="1187.5" y="774.4795">+GetMoveOptionInPosition(int Pos) : MoveOption</text></g><!--MD5=[2cb47ba637a0d19583e6199456f6ad0b]
+class Player--><g id="elem_Player"><rect codeLine="207" fill="#F1F1F1" height="276.1563" id="Player" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="644" x="1076.5" y="145.5"/><ellipse cx="1372.25" cy="161.5" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1374.5938,157.1719 C1373.6563,156.7344 1373.0625,156.5938 1372.1875,156.5938 C1369.5625,156.5938 1367.5625,158.6719 1367.5625,161.3906 L1367.5625,162.5156 C1367.5625,165.0938 1369.6719,166.9844 1372.5625,166.9844 C1373.7813,166.9844 1374.9375,166.6875 1375.6875,166.1406 C1376.2656,165.7344 1376.5938,165.2813 1376.5938,164.8906 C1376.5938,164.4375 1376.2031,164.0469 1375.7344,164.0469 C1375.5156,164.0469 1375.3125,164.125 1375.125,164.3125 C1374.6719,164.7969 1374.6719,164.7969 1374.4844,164.8906 C1374.0625,165.1563 1373.375,165.2813 1372.6094,165.2813 C1370.5625,165.2813 1369.2656,164.1875 1369.2656,162.4844 L1369.2656,161.3906 C1369.2656,159.6094 1370.5156,158.2969 1372.25,158.2969 C1372.8281,158.2969 1373.4375,158.4531 1373.9063,158.7031 C1374.3906,158.9844 1374.5625,159.2031 1374.6563,159.6094 C1374.7188,160.0156 1374.75,160.1406 1374.8906,160.2656 C1375.0313,160.4063 1375.2656,160.5156 1375.4844,160.5156 C1375.75,160.5156 1376.0156,160.375 1376.1875,160.1563 C1376.2969,160 1376.3281,159.8125 1376.3281,159.3906 L1376.3281,157.9688 C1376.3281,157.5313 1376.3125,157.4063 1376.2188,157.25 C1376.0625,156.9844 1375.7813,156.8438 1375.4844,156.8438 C1375.1875,156.8438 1374.9844,156.9375 1374.7656,157.25 L1374.5938,157.1719 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="44" x="1392.75" y="166.3467">Player</text><line style="stroke:#181818;stroke-width:0.5;" x1="1077.5" x2="1719.5" y1="177.5" y2="177.5"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="93" x="1082.5" y="194.4951">-string Name</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="146" x="1082.5" y="210.792">-int Direction, Score</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="188" x="1082.5" y="227.0889">-MoveOptionQueue Queue</text><line style="stroke:#181818;stroke-width:0.5;" x1="1077.5" x2="1719.5" y1="234.3906" y2="234.3906"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="164" x="1082.5" y="251.3857">+Player(string N, int D)</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="225" x="1082.5" y="267.6826">+SameAs(Player APlayer) : bool</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="248" x="1082.5" y="283.9795">+GetPlayerStateAsString() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="453" x="1082.5" y="300.2764">+AddToMoveOptionQueue(MoveOption NewMoveOption) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="319" x="1082.5" y="316.5732">+UpdateQueueAfterMove(int Position) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="621" x="1082.5" y="332.8701">+UpdateMoveOptionQueueWithOffer(int Position, MoveOption NewMoveOption) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="122" x="1082.5" y="349.167">+GetScore() : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="144" x="1082.5" y="365.4639">+GetName() : string</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="148" x="1082.5" y="381.7607">+GetDirection() : int</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="240" x="1082.5" y="398.0576">+ChangeScore(int Amount) : void</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="632" x="1082.5" y="414.3545">+CheckPlayerMove(int Pos, int StartSquareReference, int FinishSquareReference) : bool</text></g><!--MD5=[f0b35e8472c26e5460c9da4846a795b1]
+reverse link Dastan to Piece--><g id="link_Dastan_Piece"><path codeLine="90" d="M767.5,573.418 C767.5,589.749 767.5,605.371 767.5,619.813 " fill="none" id="Dastan-backto-Piece" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="767.5,560.178,763.5,566.178,767.5,572.178,771.5,566.178,767.5,560.178" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b745b99388d4f7a18f068cccb3e5813c]
+link Square to Dastan--><g id="link_Square_Dastan"><path codeLine="112" d="M458.701,283.5 C466.051,283.5 473.402,283.5 480.752,283.5 " fill="none" id="Square-to-Dastan" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="493.983,283.5,487.983,279.5,481.983,283.5,487.983,287.5,493.983,283.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[655ec394848f62a69e7bd8f5d6a1ad53]
+reverse link Square to Kotla--><g id="link_Square_Kotla"><path codeLine="144" d="M236.5,402.179 C236.5,491.285 236.5,608.284 236.5,668.465 " fill="none" id="Square-backto-Kotla" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="236.5,397.156,232.5,406.156,236.5,402.156,240.5,406.156,236.5,397.156" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[57bb1b79f1098c38a781d483442764c1]
+link Move to MoveOption--><g id="link_Move_MoveOption"><path codeLine="171" d="M1021.77,931 C1029.05,931 1036.33,931 1043.62,931 " fill="none" id="Move-to-MoveOption" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1056.72,931,1050.72,927,1044.72,931,1050.72,935,1056.72,931" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1e5c5e66edbc2eedda9f7646c75a282b]
+reverse link MoveOptionQueue to MoveOption--><g id="link_MoveOptionQueue_MoveOption"><path codeLine="185" d="M1398.5,795.087 C1398.5,815.799 1398.5,837.754 1398.5,857.802 " fill="none" id="MoveOptionQueue-backto-MoveOption" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1398.5,782.036,1394.5,788.036,1398.5,794.036,1402.5,788.036,1398.5,782.036" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d6dbf29a1c09a8e11de6e4f97403344d]
+reverse link Player to MoveOptionQueue--><g id="link_Player_MoveOptionQueue"><path codeLine="186" d="M1398.5,434.785 C1398.5,503.076 1398.5,580.706 1398.5,635.718 " fill="none" id="Player-backto-MoveOptionQueue" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1398.5,421.706,1394.5,427.706,1398.5,433.706,1402.5,427.706,1398.5,421.706" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[2004fd545bf571417116a04a35a01d67]
+reverse link Dastan to Player--><g id="link_Dastan_Player"><path codeLine="206" d="M1054.32,283.5 C1061.66,283.5 1069.01,283.5 1076.35,283.5 " fill="none" id="Dastan-backto-Player" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1041.1,283.5,1047.1,287.5,1053.1,283.5,1047.1,279.5,1041.1,283.5" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[8777395d38ad14bba902ecf7284936e0]
+@startuml
+'https://plantuml.com/class-diagram
+ skinparam classAttributeIconSize 0
+
+class Program
+
+class Dastan
+{
+# List<Square> Board
+# int NoOfRows, NoOfColumns, MoveOptionOfferPosition
+# List<Player> Players 
+# List<string> MoveOptionOffer 
+# Player CurrentPlayer
+# Random RGen 
+
++ Dastan(int R, int C, int NoOfPieces)
+
+
+- DisplayBoard() : void
+
+
+- DisplayState() : void
+
+
+- GetIndexOfSquare(int SquareReference) : int
+
+
+- CheckSquareInBounds(int SquareReference) : bool
+
+
+- CheckSquareIsValid(int SquareReference, bool StartSquare) : bool
+
+
+- CheckIfGameOver() : bool
+
+
+- GetSquareReference(string Description) : int
+
+
+- UseMoveOptionOffer() : void
+
+
+- GetPointsForOccupancyByPlayer(Player CurrentPlayer) : int
+
+
+- UpdatePlayerScore(int PointsForPieceCapture) : void
+
+
+- CalculatePieceCapturePoints(int FinishSquareReference) : int
+
+
++ PlayGame() : void
+
+
+- UpdateBoard(int StartSquareReference, int FinishSquareReference) : void
+
+
+- DisplayFinalResult() : void
+
+
+- CreateBoard() : void
+
+
+- CreatePieces(int NoOfPieces) : void
+
+
+- CreateMoveOptionOffer() : void
+
+
+- CreateRyottMoveOption(int Direction) : MoveOption
+
+
+- CreateFaujdarMoveOption(int Direction) : MoveOption
+
+
+- CreateJazairMoveOption(int Direction) : MoveOption
+
+
+- CreateCuirassierMoveOption(int Direction) : MoveOption
+
+
+- CreateChowkidarMoveOption(int Direction) : MoveOption
+
+
+- CreateMoveOption(string Name, int Direction) : MoveOption
+
+
+- CreateMoveOptions() : void
+
+}
+ Dastan *- - Piece 
+class Piece
+{
+# string TypeOfPiece, Symbol
+# int PointsIfCaptured
+# Player BelongsTo
+
++ Piece(string T, Player B, int P, string S)
+
+
++ GetSymbol() : string
+
+
++ GetTypeOfPiece() : string
+
+
++ GetBelongsTo() : Player
+
+
++ GetPointsIfCaptured() : int
+
+}
+Square -* Dastan
+class Square
+{
+# string Symbol
+# Piece PieceInSquare
+# Player BelongsTo
+
++ Square()
+
+
++ SetPiece(Piece P) : virtual : void
+
+
++ RemovePiece() : virtual : Piece
+
+
++ GetPieceInSquare() : virtual : Piece
+
+
++ GetSymbol() : virtual : string
+
+
++ GetPointsForOccupancy(Player CurrentPlayer) : virtual : int
+
+
++ GetBelongsTo() : virtual : Player
+
+
++ ContainsKotla() : virtual : bool
+
+}
+
+ Square <- - Kotla
+class Kotla{
++ Kotla(Player P, string S) : base()
+
+
++ GetPointsForOccupancy(Player CurrentPlayer) : override : int
+
+}
+
+class MoveOption
+{
+# string Name
+# List<Move> PossibleMoves
+
++ MoveOption(string N)
+
+
++ AddToPossibleMoves(Move M) : void
+
+
++ GetName() : string
+
+
++ CheckIfThereIsAMoveToSquare(int StartSquareReference, int FinishSquareReference) : bool
+
+}
+
+Move -* MoveOption
+class Move
+{
+# int RowChange, ColumnChange
+
++ Move(int R, int C)
+
+
++ GetRowChange() : int
+
+
++ GetColumnChange() : int
+
+}
+MoveOptionQueue *- - MoveOption
+Player *- - MoveOptionQueue  
+class MoveOptionQueue
+{
+- List<MoveOption> Queue 
+
++ GetQueueAsString() : string
+
+
++ Add(MoveOption NewMoveOption) : void
+
+
++ Replace(int Position, MoveOption NewMoveOption) : void
+
+
++ MoveItemToBack(int Position) : void
+
+
++ GetMoveOptionInPosition(int Pos) : MoveOption
+
+}
+Dastan *- Player
+class Player
+{
+- string Name
+- int Direction, Score
+- MoveOptionQueue Queue 
+
++ Player(string N, int D)
+
+
++ SameAs(Player APlayer) : bool
+
+
++ GetPlayerStateAsString() : string
+
+
++ AddToMoveOptionQueue(MoveOption NewMoveOption) : void
+
+
++ UpdateQueueAfterMove(int Position) : void
+
+
++ UpdateMoveOptionQueueWithOffer(int Position, MoveOption NewMoveOption) : void
+
+
++ GetScore() : int
+
+
++ GetName() : string
+
+
++ GetDirection() : int
+
+
++ ChangeScore(int Amount) : void
+
+
++ CheckPlayerMove(int Pos, int StartSquareReference, int FinishSquareReference) : bool
+
+}
+@enduml
+
+@startuml
+ skinparam classAttributeIconSize 0
+
+class Program
+
+class Dastan
+{
+# List<Square> Board
+# int NoOfRows, NoOfColumns, MoveOptionOfferPosition
+# List<Player> Players 
+# List<string> MoveOptionOffer 
+# Player CurrentPlayer
+# Random RGen 
+
++ Dastan(int R, int C, int NoOfPieces)
+
+
+- DisplayBoard() : void
+
+
+- DisplayState() : void
+
+
+- GetIndexOfSquare(int SquareReference) : int
+
+
+- CheckSquareInBounds(int SquareReference) : bool
+
+
+- CheckSquareIsValid(int SquareReference, bool StartSquare) : bool
+
+
+- CheckIfGameOver() : bool
+
+
+- GetSquareReference(string Description) : int
+
+
+- UseMoveOptionOffer() : void
+
+
+- GetPointsForOccupancyByPlayer(Player CurrentPlayer) : int
+
+
+- UpdatePlayerScore(int PointsForPieceCapture) : void
+
+
+- CalculatePieceCapturePoints(int FinishSquareReference) : int
+
+
++ PlayGame() : void
+
+
+- UpdateBoard(int StartSquareReference, int FinishSquareReference) : void
+
+
+- DisplayFinalResult() : void
+
+
+- CreateBoard() : void
+
+
+- CreatePieces(int NoOfPieces) : void
+
+
+- CreateMoveOptionOffer() : void
+
+
+- CreateRyottMoveOption(int Direction) : MoveOption
+
+
+- CreateFaujdarMoveOption(int Direction) : MoveOption
+
+
+- CreateJazairMoveOption(int Direction) : MoveOption
+
+
+- CreateCuirassierMoveOption(int Direction) : MoveOption
+
+
+- CreateChowkidarMoveOption(int Direction) : MoveOption
+
+
+- CreateMoveOption(string Name, int Direction) : MoveOption
+
+
+- CreateMoveOptions() : void
+
+}
+ Dastan *- - Piece 
+class Piece
+{
+# string TypeOfPiece, Symbol
+# int PointsIfCaptured
+# Player BelongsTo
+
++ Piece(string T, Player B, int P, string S)
+
+
++ GetSymbol() : string
+
+
++ GetTypeOfPiece() : string
+
+
++ GetBelongsTo() : Player
+
+
++ GetPointsIfCaptured() : int
+
+}
+Square -* Dastan
+class Square
+{
+# string Symbol
+# Piece PieceInSquare
+# Player BelongsTo
+
++ Square()
+
+
++ SetPiece(Piece P) : virtual : void
+
+
++ RemovePiece() : virtual : Piece
+
+
++ GetPieceInSquare() : virtual : Piece
+
+
++ GetSymbol() : virtual : string
+
+
++ GetPointsForOccupancy(Player CurrentPlayer) : virtual : int
+
+
++ GetBelongsTo() : virtual : Player
+
+
++ ContainsKotla() : virtual : bool
+
+}
+
+ Square <- - Kotla
+class Kotla{
++ Kotla(Player P, string S) : base()
+
+
++ GetPointsForOccupancy(Player CurrentPlayer) : override : int
+
+}
+
+class MoveOption
+{
+# string Name
+# List<Move> PossibleMoves
+
++ MoveOption(string N)
+
+
++ AddToPossibleMoves(Move M) : void
+
+
++ GetName() : string
+
+
++ CheckIfThereIsAMoveToSquare(int StartSquareReference, int FinishSquareReference) : bool
+
+}
+
+Move -* MoveOption
+class Move
+{
+# int RowChange, ColumnChange
+
++ Move(int R, int C)
+
+
++ GetRowChange() : int
+
+
++ GetColumnChange() : int
+
+}
+MoveOptionQueue *- - MoveOption
+Player *- - MoveOptionQueue  
+class MoveOptionQueue
+{
+- List<MoveOption> Queue 
+
++ GetQueueAsString() : string
+
+
++ Add(MoveOption NewMoveOption) : void
+
+
++ Replace(int Position, MoveOption NewMoveOption) : void
+
+
++ MoveItemToBack(int Position) : void
+
+
++ GetMoveOptionInPosition(int Pos) : MoveOption
+
+}
+Dastan *- Player
+class Player
+{
+- string Name
+- int Direction, Score
+- MoveOptionQueue Queue 
+
++ Player(string N, int D)
+
+
++ SameAs(Player APlayer) : bool
+
+
++ GetPlayerStateAsString() : string
+
+
++ AddToMoveOptionQueue(MoveOption NewMoveOption) : void
+
+
++ UpdateQueueAfterMove(int Position) : void
+
+
++ UpdateMoveOptionQueueWithOffer(int Position, MoveOption NewMoveOption) : void
+
+
++ GetScore() : int
+
+
++ GetName() : string
+
+
++ GetDirection() : int
+
+
++ ChangeScore(int Amount) : void
+
+
++ CheckPlayerMove(int Pos, int StartSquareReference, int FinishSquareReference) : bool
+
+}
+@enduml
+
+PlantUML version 1.2022.10beta1(Unknown compile time)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: en
+Country: US
+--></g></svg>
